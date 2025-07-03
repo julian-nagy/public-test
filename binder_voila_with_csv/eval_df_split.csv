@@ -1,0 +1,6 @@
+Category,Threshold,Precision,Recall,False Omission Rate,Miss Rate,Not Classified Count,Not Classified Rate,Method,Sample
+made_by,0.1,0.8,0.6,0.2,0.4,100,0.2,Model Only,Combined
+made_by,0.3,0.85,0.65,0.18,0.35,80,0.16,Model Only,Combined
+made_by,0.5,0.9,0.7,0.15,0.3,60,0.12,Model Only,Combined
+made_by,0.7,0.92,0.72,0.13,0.28,40,0.08,Model Only,Combined
+made_by,0.9,0.93,0.73,0.12,0.27,20,0.04,Model Only,Combined
